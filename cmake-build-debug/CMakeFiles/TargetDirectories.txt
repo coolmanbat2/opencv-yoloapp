@@ -1,0 +1,3 @@
+/Users/programmerpc/CLionProjects/YOLOApp/cmake-build-debug/CMakeFiles/YOLOApp.dir
+/Users/programmerpc/CLionProjects/YOLOApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/programmerpc/CLionProjects/YOLOApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

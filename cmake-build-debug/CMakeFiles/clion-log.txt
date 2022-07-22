@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/programmerpc/CLionProjects/YOLOApp -B /Users/programmerpc/CLionProjects/YOLOApp/cmake-build-debug
+-- Found OpenCV: /opt/homebrew/Cellar/opencv/4.5.5_3 (found version "4.5.5") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/programmerpc/CLionProjects/YOLOApp/cmake-build-debug
